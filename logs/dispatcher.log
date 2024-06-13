@@ -14,3 +14,9 @@
 2024-06-13 20:14:09 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
 2024-06-13 20:15:21 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
 2024-06-13 20:55:13 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:30:07 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:30:18 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:30:29 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:30:31 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:30:39 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2024-06-13 21:31:06 DEBUG ConsumerServiceImpl:34 - NODE: Document is received
