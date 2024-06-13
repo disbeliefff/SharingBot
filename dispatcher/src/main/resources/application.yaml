@@ -1,3 +1,10 @@
 bot:
   name: shaaring_files_bot
   token: 6783601991:AAGNcePnfwZ1uMhisuxggi6onR_maDhH2mQ
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: user
+    password: pass
