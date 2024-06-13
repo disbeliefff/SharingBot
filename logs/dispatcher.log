@@ -7,3 +7,7 @@
 2024-06-13 19:12:46 DEBUG UpdateProducerImpl:20 - Hi
 2024-06-13 19:12:46 DEBUG UpdateProducerImpl:20 - ew
 2024-06-13 19:13:04 DEBUG UpdateProducerImpl:20 - ВВВ
+2024-06-13 19:39:27 DEBUG ConsumerServiceImpl:26 - NODE: Text message is received
+2024-06-13 19:39:27 DEBUG ConsumerServiceImpl:26 - NODE: Text message is received
+2024-06-13 19:39:27 DEBUG ConsumerServiceImpl:26 - NODE: Text message is received
+2024-06-13 19:40:04 DEBUG ConsumerServiceImpl:26 - NODE: Text message is received
