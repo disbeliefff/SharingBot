@@ -42,5 +42,11 @@
             <scope>annotationProcessor</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.myprojects</groupId>
+            <artifactId>common-rabbitmq</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 </project>

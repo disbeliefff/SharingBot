@@ -41,13 +41,7 @@ public class TelegramBot extends TelegramLongPollingBot {
 
     @Override
     public void onUpdateReceived(Update update) {
-        var origianlMessage = update.getMessage();
-        log.debug(origianlMessage.getText());
-
-        var response = new SendMessage();
-        response.setChatId(origianlMessage.getChatId().toString());
-        response.setText("Hello!");
-        sendMessage(response);
+        updateController.processUpdate(update);
     }
 
     public void sendMessage(SendMessage message) {
