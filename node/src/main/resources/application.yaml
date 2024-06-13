@@ -8,3 +8,10 @@ spring:
     username: user
     password: pass
 
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5433/botdb
+    username: user
+    password: pass
+  jpa:
+    generate-ddl: true
